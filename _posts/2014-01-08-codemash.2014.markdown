@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Codemash 2.0.1.4"
+date:   2014-01-09 00:00:00
+categories: career speaking
+---
+I've recently been accepted to speak in January at the upcoming Codemash conference. This is a fantastic conference held at the Kalihari resort in the middle of winter. Where else can you wear shorts and go swimming in Ohio in the dead of winter? I've been accepted for two sessions, one will discuss the Travis-CI service for open source applicaitons, while the other will be about how to do some thing that an IDE does for you without the added overhead of an actual IDE.

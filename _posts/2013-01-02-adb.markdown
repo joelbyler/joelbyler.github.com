@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Co-Author ADB Ruby Gem"
+date:   2013-01-02 00:00:00
+categories: career opensource
+---
+Used for automating activities running on an Android device.

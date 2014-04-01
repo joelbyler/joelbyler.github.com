@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "SVG Ruby Gem"
+date:   2013-01-05 00:00:00
+categories: career opensource
+---
+This project is a library for builing Simple Vector Graphics in ruby.

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Cleveland Ruby Brigade"
+date:   2014-12-01 00:00:00
+categories: career community
+---
+I've been organizing this group in Cleveland since October 2012. We we meet once a month on the first Thursday. In the past we've had guest speakers, 'hack nights,' and simply watched pre-recorded conference talks. We also have a special format to our meetings which allows newcomers a chance to come and learn while still giving the regulars a chance to learn something new.

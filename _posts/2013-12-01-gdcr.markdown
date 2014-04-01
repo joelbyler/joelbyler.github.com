@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Global Day of Code Retreat"
+date:   2013-12-01 00:00:00
+categories: career community
+---
+This is a day when software craftsman get together on the weekend to practice some crazy tricks with code. It is always great fun and a good chance to meet new developers near you. Software developers of all backgrounds and proficiency with any language are welcome. I've participated in a number of these and helped to host the in Cleveland for 2012. I've also started planning for 2013 and am planning to help organize this year's as well.
