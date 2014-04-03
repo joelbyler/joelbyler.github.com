@@ -3,5 +3,6 @@ layout: post
 title:  "Protean.js Node Module"
 date:   2013-01-03 00:00:00
 categories: career opensource
+website: https://npmjs.org/package/protean.js
 ---
 Adds a number of handy functions to the standard String and Number prototypes.

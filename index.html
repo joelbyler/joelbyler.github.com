@@ -7,7 +7,7 @@ title: Joel Byler
 {% for post in site.posts %}
   {% if post.categories contains 'career' %}
     {% if post.categories contains 'opensource' %}
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    <h4><a href="{{ post.website }}">{{ post.title }}</a></h4>
     <p>{{post.content}}</p>
     {% endif %}
   {% endif %}
@@ -17,7 +17,7 @@ title: Joel Byler
 {% for post in site.posts %}
   {% if post.categories contains 'career' %}
     {% if post.categories contains 'community' %}
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    <h4><a href="{{ post.website }}">{{ post.title }}</a></h4>
     <p>{{post.content}}</p>
     {% endif %}
   {% endif %}

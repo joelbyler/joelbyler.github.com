@@ -3,5 +3,6 @@ layout: post
 title:  "Pittsburgh TechFest 2013"
 date:   2013-06-01 00:00:00
 categories: career speaking
+website: http://pghtechfest.com/
 ---
 I was honored to speak in Pittsburgh this year, this was my first experience speaking at a conference. I've attended this one before so I had a good idea what to expect from the audience. I spoke on a ruby gem named Ruboto which allows you to develop Android applications using the ruby programming language.
