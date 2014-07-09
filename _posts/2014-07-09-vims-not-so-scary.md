@@ -1,16 +1,19 @@
 ---
 layout: post
 title:  "Vim's Not So Scary"
-date:   2014-07-02 00:00:00
+date:   2014-07-09999999990
 categories: dev
 ---
 
-Recently I've started using vim for coding after over a decade of working with IDE's while working on Java, VB, and C# projects.  I'll admit that I've been thinking about making the switch to vim for quite some time and it always seemed like a daunting task.
+Recently I've started using vim for coding after over a decade of using IDE's for Java, VB, and C# projects.  I'll admit that I've been thinking about making the switch to vim for quite some time and it always seemed like a daunting task.
+
+I decided to document the experience for the benefit of others and to remind myself that sometimes I just need to get out of my comfort zone and try things.
 
 ##Why would you want to use VIM?
 
   1. You don't need to use your mouse :)
   2. The flow of typing will is never interrupted (recompiling, validating, etc.)
+  3. Remote pairing, I've spent many hours remote pairing on different projects while using a screen sharing tool like screen hero or skype. While those tools are great, they just don't work well in a low bandwidth scenario.  The combination of VIM and TMUX works well and is very fast.
 
 ##Why would you want to NOT use VIM?
 
@@ -20,7 +23,7 @@ I'm still looking into this. If you know of one, let me know!
 One of my greatest concerns with starting to use vim was that I just knew that it would take me a lot of practice to get as proficient with it as I am with one of my old IDE's.  Then Atom.io came out in late February of this year.  All of my friends started using it and I found an early access invite so that I could see what all of the fuss was about.  Right away I realized that some of the keyboard shortcuts were different from what I was used to.  It wasn't that they were difficult to learn, its just that they're different.  Sometimes the differences were great enough that they caused me to bounce back into my old IDE for a while so I could get some more intense work down without thinking about what keys I'm using.  That's when it clicked for me, just because I want to try and use a different tool to edit my source code, it doesn't mean that I'm stuck with it for all time.  You're always free to jump back to your 'security blanket' where you're confortable when you need it.  Just don't feel like this means that you've failed, more drastic changes can take more time.  Keep in mind the benefits of the changes that you are trying to make.
 
 
-##There are some fun ways to learn and practice
+##Fun ways to learn and practice
 [VIM Adventures](http://vim-adventures.com/) is a fun way to learn many useful VIM commands while playing through an RPG style interactive adventure.
 
 [VIMGolf](http://vimgolf.com/) is a collection of different challenges which pit you against other golfers to find a way to complete a task using the minimum number of keystrokes.  After you submit your attempt, you're ranked against other players who've attempted the same challenge to see how well you fare.  You can also compare your submission with those who are close to you in ranking so you can learn from what some of the other challengers are doing.
