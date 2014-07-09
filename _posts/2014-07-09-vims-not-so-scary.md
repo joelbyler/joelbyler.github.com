@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vim's Not So Scary"
-date:   2014-07-09999999990
+date:   2014-07-09 00:00:00
 categories: dev
 ---
 
