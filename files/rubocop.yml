@@ -172,7 +172,15 @@ Naming/FileName:
   Regex:
   IgnoreExecutableScripts: true
 
-Layout/IndentFirstArgument:
+Layout/SpaceInsideArrayLiteralBrackets
+  EnforcedStyle: consistent
+  SupportedStyles:
+  - consistent
+  - special_for_inner_method_call
+  - special_for_inner_method_call_in_parentheses
+  IndentationWidth:
+
+Layout/SpaceInsideReferenceBrackets
   EnforcedStyle: consistent
   SupportedStyles:
   - consistent
