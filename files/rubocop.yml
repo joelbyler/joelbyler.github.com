@@ -178,7 +178,7 @@ Layout/SpaceInsideArrayLiteralBrackets
   - consistent
   - special_for_inner_method_call
   - special_for_inner_method_call_in_parentheses
-  IndentationWidth:
+  IndentationWidth: 4
 
 Layout/SpaceInsideReferenceBrackets
   EnforcedStyle: consistent
@@ -186,7 +186,7 @@ Layout/SpaceInsideReferenceBrackets
   - consistent
   - special_for_inner_method_call
   - special_for_inner_method_call_in_parentheses
-  IndentationWidth:
+  IndentationWidth: 4
 
 Style/For:
   EnforcedStyle: each
