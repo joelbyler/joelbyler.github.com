@@ -172,21 +172,21 @@ Naming/FileName:
   Regex:
   IgnoreExecutableScripts: true
 
-Layout/SpaceInsideArrayLiteralBrackets
+Layout/SpaceInsideArrayLiteralBrackets:
   EnforcedStyle: consistent
   SupportedStyles:
   - consistent
   - special_for_inner_method_call
   - special_for_inner_method_call_in_parentheses
-  IndentationWidth: 4
+  IndentationWidth:
 
-Layout/SpaceInsideReferenceBrackets
+Layout/SpaceInsideReferenceBrackets:
   EnforcedStyle: consistent
   SupportedStyles:
   - consistent
   - special_for_inner_method_call
   - special_for_inner_method_call_in_parentheses
-  IndentationWidth: 4
+  IndentationWidth:
 
 Style/For:
   EnforcedStyle: each
